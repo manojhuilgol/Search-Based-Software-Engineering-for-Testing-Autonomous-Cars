@@ -2,9 +2,6 @@
 
 - ## Train Generator
 
-
-#### Demo Link: 
-  https://www.dropbox.com/s/i4bmrx34yz0tylr/AI%20demo.mov?dl=0&fbclid=IwAR2HwXOaG3TsjqosaALDgzQcNlVLsttqg4GBTFgGxZYfGssKZjBr7W1CvjY
  
 #### Overview
 
